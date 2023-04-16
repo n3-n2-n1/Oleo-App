@@ -1,0 +1,82 @@
+.container {
+  width: 100%;
+  position: relative;
+}
+
+.dropBox {
+  height: 25px;
+  position: relative;
+  margin-top: 7px;
+  width: 100%;
+}
+.dropBox::before {
+  content: "";
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  right: 18px;
+  top: 5px;
+  z-index: 2;
+  width: 6px;
+  height: 6px;
+  display: flex;
+  justify-content: center;
+  border: 1.5px solid rgba(1, 1, 1, 0.708);
+  border-top: 2px solid #fff;
+  transition: all 100ms ease;
+  border-right: 2px solid #fff;
+  transform: rotate(-45deg);
+
+}
+.active::before {
+  border: 1.5px solid rgba(1, 1, 1, 0.708);
+  border-bottom: 2px solid #fff;
+  border-left: 2px solid #fff;
+  transform: 0.5s;
+  top: 9px;
+}
+.dropBox input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 85%;
+  left: 4%;
+  cursor: pointer;
+  box-shadow: 0 5px 20 px rgba(0, 0, 0, 0.5);
+  font-size: 14px;
+  height: 100%;
+  border: none;
+  outline: none;
+  display: flex;
+  justify-content: center;
+
+  padding: 0 5px;
+  border-radius: 5px;
+}
+.dropBox .option {
+  position: relative;
+  top: 30px;
+  left: 4%;
+  width: 90%;
+  background: #ffff;
+  box-shadow: 0 30px 30px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+  display: block;
+  border-radius: 5px;
+  z-index: 50;
+}
+.none {
+  display: none;
+  transition: all 100ms ease-in-out;
+}
+.dropBox .option div {
+  cursor: pointer;
+  transition: all 200ms ease-in-out;
+  padding: 1px 20px;
+  font-size: 14px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.418);
+}
+.selectionator div:hover {
+  background-color: #62baea;
+  color: #ffff;
+}

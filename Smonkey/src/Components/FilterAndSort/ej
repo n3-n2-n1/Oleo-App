@@ -1,0 +1,17 @@
+   <option disabled selected>
+          Buscar por marca
+        </option>
+        <option value="">Todos</option>
+        {brands?.map((e) => (
+          <option key={e.id} value={e.nombre}>
+            {e.nombre}
+          </option>
+        ))}
+
+
+        <select className={style.select}>
+            <option disabled selected>
+              Buscar subcategorias
+            </option>
+            <option value="all">Todos</option>
+          </select>
