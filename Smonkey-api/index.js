@@ -1,5 +1,3 @@
-console.clear()
-
 import sequelize from "./config/db.js";
 import dotenv from "dotenv";
 import httpServer from "./config/http.js";
