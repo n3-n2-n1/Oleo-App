@@ -1,0 +1,160 @@
+Tipo,Marca,Nombre,Referencia,Categoria,Descripcion,Precio total,Imagenes
+Producto,Growers,Sustrato Growers Super Soil (25lt.),3045,FERTILIZANTES,STOCKA,1500,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510416/club-cannabico-sustrato-growers-super-soil-20lts_txb77t.jpg
+Producto,Growers,Sustrato Growers Super Soil (50lt.),3046,FERTILIZANTES,STOCKA,3455,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510416/club-cannabico-sustrato-growers-super-soil-20lts_txb77t.jpg
+Producto,Top Crop,Top Crop - Big One 250mL.,,FERTILIZANTES,STOCKA,2420,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510336/Smonkey/products/Captura_de_pantalla_2022-12-15_161139_sn90jh.png
+Producto,Top Crop,Top Crop - Veg 250mL.,567117658716817867,FERTILIZANTES,STOCKA,1500,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510335/Smonkey/products/Captura_de_pantalla_2022-12-15_160443_iiikrj.png
+Producto,Top Crop,Top Crop - Bloom 250mL.,SKU: 658974177687,FERTILIZANTES,STOCKA,1500,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510333/Smonkey/products/TOP_CROP_BLOOM_wxsioe.png
+Producto,Top Crop,Top Crop - Candy 250mL.,SKU: 65741564756765,FERTILIZANTES,STOCKA,1399,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510333/Smonkey/products/TOP_CROP_CANDY_hrunfm.png
+Producto,Top Crop,Top Crop - Deeper 250mL.,SKU: 4685765876741646,FERTILIZANTES,STOCKA,2000,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510333/Smonkey/products/TOP_DEEPER_emq3hj.png
+Producto,Clipper,Clipper - Lighter,SKU: 5916254312348,PARAFERNALIA,STOCKA,400,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510337/Smonkey/products/CLIPPER_gjtcd8.png
+Producto,Greenhouse,Greenhouse - Feeding (Long) 250g.,,FERTILIZANTES,STOCKA,4000.01,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510338/Smonkey/products/GREENHOUSE_FEEDING_LONG_tdn4r9.png
+Producto,Greenhouse,Greenhouse - Feeding (Short) 125g.,,FERTILIZANTES,STOCKA,4000.01,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510339/Smonkey/products/GREENHOUSE_FEEDING_SHORT_vxtlif.png
+Producto,Greenhouse,Greenhouse - Feeding Calcium 500g.,,FERTILIZANTES,STOCKA,9000,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510338/Smonkey/products/GREENHOUSE_FEEDING_CALCIUM_ihkjwj.png
+Producto,Greenhouse,GREENHOUSE FEEDING STARTER KIT MINERAL,,FERTILIZANTES,STOCKA,19500,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510339/Smonkey/products/GREENHOUSE_FEEDING_STARTER_KIT_gzixcn.png
+Producto,Skogbio,Skogbio - Alga Delta Bioestimulante 100mL.,,BIOESTIMULANTE,STOCKA,1200,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510331/Smonkey/products/SKOGBIO_ALGA_DELTA_BIOESTIMULANTE_200ML_4_ntclkh.png
+Producto,Skogbio,Skogbio - Alga Delta Bioestimulante 200mL.,,BIOESTIMULANTE,STOCKA,2100,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510331/Smonkey/products/SKOGBIO_ALGA_DELTA_BIOESTIMULANTE_100ML_fm9vbf.png
+Producto,Skogbio,Skogbio - King Clon Gel 25mL.,,BIOESTIMULANTE,STOCKA,700,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510331/Smonkey/products/SKOGBIO_KING_CLON_HORMONA_GEL_25ML_kkddgx.png
+Producto,Mamboreta,Mamboreta CONFI - 30cc.,SKU: 145698723145,PESTICIDA,STOCKA,2000,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510325/Smonkey/products/MAMBORETA_CONFI_ycdovi.png
+Producto,Mamboreta,Mamboreta ABA - 30cc.,SKU: 124258974364,PESTICIDA,STOCKA,1700,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510343/Smonkey/products/MAMBORETA_ABA_30CC_tuzokv.png
+Producto,Mamboreta,Mamboreta Fungicida - 30cc.,,PESTICIDA,STOCKA,1100,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510325/Smonkey/products/MAMBORETA_FUNGICIDA_H_m2yy8a.png
+Producto,Mamboreta,Mamboreta TricoTrap - 30cc.,SKU: 41651456465147,PESTICIDA,STOCKA,2100,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510325/Smonkey/products/MAMBORETA_TRICO_TRAP_hfri9g.png
+Producto,Soplada,Maceta soplada redonda - 3L,SKU: 574156411684654,HERRAMIENTAS,STOCKA,120,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510342/Smonkey/products/MACETA_SOPLADA_trihrt.png
+Producto,Soplada,Maceta soplada redonda - 10L,SKU: 56566541646416,HERRAMIENTAS,STOCKA,340,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510342/Smonkey/products/MACETA_SOPLADA_trihrt.png
+Producto,Soplada,Maceta soplada redonda - 12L,,HERRAMIENTAS,STOCKA,599,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510342/Smonkey/products/MACETA_SOPLADA_trihrt.png
+Producto,Soplada,Maceta soplada redonda - 15L,SKU: 516541654165465,HERRAMIENTAS,STOCKA,599,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510342/Smonkey/products/MACETA_SOPLADA_trihrt.png
+Producto,Soplada,Maceta soplada redonda - 20L,SKU: 54654654654654,HERRAMIENTAS,STOCKA,650,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510342/Smonkey/products/MACETA_SOPLADA_trihrt.png
+Producto,Raw,Raw - Challenge Cone - 33oz.,,PARAFERNALIA,STOCKA,7500,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510336/Smonkey/products/CHALLENGE_CONE_sw1dnt.png
+Producto,Raw,"Forestal - Bandeja 4090 (40 celdas, 90cc)",,PARAFERNALIA,STOCKA,1190,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510338/Smonkey/products/FORESTAL_BANDEJA_4090_yudvwn.png
+Producto,Deses,Deses - Pulverizador de Plastico,,HERRAMIENTAS,STOCKA,1700,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510330/Smonkey/products/PULVERIZADOR_DESES_PLAST_yz43ry.png
+Producto,Sauver,Sauver,SKU: 8476545645456,PARAFERNALIA,STOCKA,200,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510330/Smonkey/products/SAUVER_ruspce.png
+Producto,Lion Circus,Lion Rolling Circus - Pre-Rolled Hemp Gold 24k,,PARAFERNALIA,STOCKA,6900,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510285/Smonkey/products/IMG_6515_s3fyny.heic
+Producto,Squadfum,Squadfum - Rosing Sauver,,PARAFERNALIA,STOCKA,1200,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510332/Smonkey/products/SQUAD_FUM_q1oiqb.png
+Producto,Raw,Raw - King Size paper (3m.),,PARAFERNALIA,STOCKA,900,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510330/Smonkey/products/RAW_ROLLS_jo7gn6.png
+Producto,Berta,Berta - Pulverizador profesional,,HERRAMIENTAS,STOCKA,1000,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510328/Smonkey/products/PULVERIZADOR_BERTA_800CC_bmukok.png
+Producto,Jiffy,Jiffy 7 - Turba prensada (41mm.),,HERRAMIENTAS,STOCKA,125.01,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510340/Smonkey/products/JIFFY_7_MONEDA_TURBA_PRENSADA_uz6q5f.png
+Producto,Balanza,Pocket - Balanza Pocket,,HERRAMIENTAS,STOCKA,2500.01,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510333/Smonkey/products/BALANZA_POCKET_gq22fk.png
+Producto,Rosing,Pirex - Bong Clear,,PARAFERNALIA,STOCKA,35000,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510321/Smonkey/products/IMG_6541_bt8pfl.heic
+Producto,Garden,Garden - Tijera Profesional,,HERRAMIENTAS,STOCKA,2100,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510332/Smonkey/products/TIJERA_MINI_GARDEN_beqy85.png
+Producto,Picador,Picador - StarWars: Estrella de la Muerte,,PARAFERNALIA,STOCKA,5000,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510327/Smonkey/products/PICADOR_ESTRELLA_DE_LA_MUERTE_qtnc3g.png
+Producto,Pipa,Pipa - Bola 8,,PARAFERNALIA,STOCKA,2500.01,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510327/Smonkey/products/PIPA_VIDRIO_BOLA_8_dxzfgb.png
+Producto,Zeus,Zeus - Tips (Filtros),,PARAFERNALIA,STOCKA,200,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510338/Smonkey/products/FILTROS_ZEUS_TIPS_j5bczf.png
+Producto,Zeus,SEDAS ZEUS BLACK,,PARAFERNALIA,STOCKA,350,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510331/Smonkey/products/SEDAS_ZEUS_BLACK_bfgfjg.jpg
+Producto,Bulldog,Bulldog - Cenicero Deluxe silver,,PARAFERNALIA,STOCKA,5000,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510335/Smonkey/products/BULLDOG_CENICERO_DELUXE_SILVER_ujfoek.png
+Producto,Bulldog,Bulldog - Cenicero portatil,,PARAFERNALIA,STOCKA,1000,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510334/Smonkey/products/BULLDOG_CENICERO_PORTATIL_j96far.png
+Producto,Bulldog,Bulldog - Picador transparente (3 pisos) ,,PARAFERNALIA,STOCKA,1200.01,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510335/Smonkey/products/BULLDOG_PICADOR_3P_CLEAR_qaiuvj.png
+Producto,Bulldog,Bulldog - Picador negro (3 pisos) ,,PARAFERNALIA,STOCKA,1200.01,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510335/Smonkey/products/BULLDOG_PICADOR_3P_NEGRO_i9sdty.png
+Producto,Bulldog,Bulldog - Picador (4 partes) Silver,,PARAFERNALIA,STOCKA,4199.99,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510336/Smonkey/products/BULLDOG_PICADOR_METAL_4P_SILVER_kxrppy.png
+Producto,Pipa,Pipe - Glass (vidrio),GP431,PARAFERNALIA,STOCKA,4400,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510330/Smonkey/products/PIPA_DE_VIDRIO_GLASS_PIPE2_ojpzky.png
+Producto,Hash,Hash Maker - 150micras.,,HERRAMIENTAS,STOCKA,4420,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510340/Smonkey/products/HASH_MAKER_CHICO_150_zavacb.png
+Producto,Hash,Hash Maker - 90micras.,,HERRAMIENTAS,STOCKA,4420,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510339/Smonkey/products/HASH_MAKER_CHICO_90_eq7s14.png
+Producto,Pipa,MINI BONG - Varios,,PARAFERNALIA,STOCKA,3500,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510325/Smonkey/products/MINI_BONG_CLEAR_VARIOS1_gvkthx.png
+Producto,Lion Circus,Lion Rolling Circus - Grinder (3 partes),,PARAFERNALIA,STOCKA,2000,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510274/Smonkey/products/IMG_6493_dfwsmx.heic
+Producto,Clipper,Cerium - Clipper Ash,,PARAFERNALIA,STOCKA,350,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510329/Smonkey/products/PIEDRA_CLIPPER_CERIUM_nynhaa.png
+Producto,Pipa,Pipe - Glass (vidrio),,PARAFERNALIA,STOCKA,1500,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510331/Smonkey/products/PIPA_W_DE_VIDRIO_aqurin.png
+Producto,Sauver,Sauver - (cuadrado),,PARAFERNALIA,STOCKA,200,
+Producto,Sauver,Sauver - Traingular (Chico),,PARAFERNALIA,STOCKA,200,
+Producto,Rosing,Rosing recipent ,,PARAFERNALIA,STOCKA,1500,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510336/Smonkey/products/CAZOLETA_SILICONA_REDONDA_QUEMADOR_VIDRIO_SILICONA_x9gj8s.png
+Producto,Blunt Rey,Blunt Rey - Cenicero Portatil,,PARAFERNALIA,STOCKA,749.99,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510337/Smonkey/products/CENICERO_METAL_qzocfh.png
+Producto,420,"420 - Picador (4 partes, tornasolado)",,PARAFERNALIA,STOCKA,3000,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510326/Smonkey/products/PICA_TORNASOLADO_4P_nksmvk.png
+Producto,Picador,PICADOR ECONOMICO GRANDE,,PARAFERNALIA,STOCKA,950,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510328/Smonkey/products/PICADOR_ECONOMICO_GRANDE_qvddsk.png
+Producto,Picador,PICADOR ECONOMICO CHICO,,PARAFERNALIA,STOCKA,700,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510327/Smonkey/products/PICADOR_ECONOMICO_CHICO_yb08ui.png
+Producto,Lion Circus,LION PICADOR DE ALUMINIO 2 PARTES AMSTERDAN,,PARAFERNALIA,STOCKA,3000,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510341/Smonkey/products/LION_PICADOR_DE_ALUMINIO_2_PARTES_AMSTERDAN_stn0yc.png
+Producto,Lion Circus,LION PICADOR DE ALUMINIO 3 PARTES AMSTERDAN,,PARAFERNALIA,STOCKA,3500,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510341/Smonkey/products/LION_PICADOR_DE_ALUMINIO_3_PARTES_AMSTERDAN_ti9dep.png
+Producto,Gizeh,PICADOR GIZEH METAL 50MM,,PARAFERNALIA,STOCKA,4500,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510326/Smonkey/products/PICADOR_GIZEH_METAL_50MM_wnydzo.png
+Producto,DW,PIPA CON PICADOR METAL,,PARAFERNALIA,STOCKA,3000,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510329/Smonkey/products/PIPA_CON_PICADOR_METAL_ofywdk.png
+Producto,Lion Circus,MAQUINA PARA ARMAR LION REGULAR,,PARAFERNALIA,STOCKA,1500,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510333/Smonkey/products/ARMADOR_RAW_ubz5aq.png
+Producto,Raw,MAQUINA PARA ARMAR RAW 70MM,,PARAFERNALIA,STOCKA,1900,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510342/Smonkey/products/LYON_SILVER_KS_110_MM_wzeka3.png
+Producto,420,PICADOR 420 ARCOIRIS GRANDE 60MM,,PARAFERNALIA,STOCKA,9000,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510280/Smonkey/products/IMG_6502_qovps7.heic
+Producto,DW,PIPA W DE VIDRIO,,PARAFERNALIA,STOCKA,1500,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510288/Smonkey/products/IMG_6517_o48me5.heic
+Producto,4Hemp,SEDA CELULOSA 4HEMP,,PARAFERNALIA,STOCKA,350,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510337/Smonkey/products/CELULOSA_4HELP_kz4skd.png
+Producto,Blunt Rey,CIPLOCK,,PARAFERNALIA,STOCKA,200,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510337/Smonkey/products/CIPLOCK_rclkke.png
+Producto,Lion Circus,LION ROLLING CIRCUS PRE-ROLED HEM GOLD 24K,,PARAFERNALIA,STOCKA,7000,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510341/Smonkey/products/LION_ORO_xx0wrl.png
+Producto,Lion Circus,LION HEMP WRA BLUNT,,PARAFERNALIA,STOCKA,800,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510342/Smonkey/products/LION_HEMP_WRA_BLUNT_zcn4bz.png
+Producto,Pipa,PIPA DE ALUMINIO LLAVERO,,PARAFERNALIA,STOCKA,900,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510328/Smonkey/products/PIPA_DE_ALUMINIO_LLAVERO_grvdjz.png
+Producto,OCB,SEDAS OCB X-PERT GRIS 1 1/4,,PARAFERNALIA,STOCKA,250,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510331/Smonkey/products/SEDAS_OCB_GRIS_i3noao.png
+Producto,Bioproyect,FLOWER BLOOM BIOPROYECT 350GR,564514563153,FERTILIZANTES,STOCKA,2400,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510333/Smonkey/products/bioproyect_flower_bloom_350_gr_tdlpn4.png
+Producto,Bioproyect,BIOPROYECT FLOWER START 70GR,37447476364364,FERTILIZANTES,STOCKA,550.01,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510333/Smonkey/products/BIOPROYECT_FLOWER_START_umtvtt.png
+Producto,Bioproyect,BIOPROYECT GREEN JUNGLE 70GR,,FERTILIZANTES,STOCKA,950,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510334/Smonkey/products/BIOPROYECT_GREEN_JUNGLE_70GR_qgokuv.png
+Producto,Bioproyect,BIOPROYECT NUTRIENTES HIDRO PACK 1.2.3.4 150 ML,,FERTILIZANTES,STOCKA,1800,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510334/Smonkey/products/BIOPROYECT_NUTRIENTES_HIDRO_PACK_1.2.3.4_150_ML_kqq1v7.png
+Producto,Bioproyect,BIOPROYECT SWEET CARBO 50GR,,FERTILIZANTES,STOCKA,500,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510334/Smonkey/products/BIOPROYECT_SWEET_CARBON_jyc79n.png
+Producto,Pot,POT ARAÑA 200ML,,BIOESTIMULANTE,STOCKA,2890,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510328/Smonkey/products/POT_ARA%C3%91A_iihlme.png
+Producto,Pot,POT FLORA 500ML,,BIOESTIMULANTE,STOCKA,1700,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510327/Smonkey/products/POT_FLORA_pklenq.png
+Producto,Brew,MACA BREW BIOESTIMULANTE 500CC,,BIOESTIMULANTE,STOCKA,800,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510342/Smonkey/products/MACA_BREW_BIOESTIMULANTE_500CC_bstnbt.png
+Producto,Pot,POT SUGAR BIO 500ML,,FERTILIZANTES,STOCKA,1800,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510330/Smonkey/products/POT_VEGE_BIO_500ML_l1jmcy.png
+Producto,Pot,POT SUGAR ORG 500ML,7798376340341,FERTILIZANTES,STOCKA,1200.01,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510329/Smonkey/products/POT_SUGAR_ORG_500ML_n5ppda.png
+Producto,Pot,POT VEGE BIO 500ML,DOF-7798376340037,FERTILIZANTES,STOCKA,1600,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510329/Smonkey/products/POT_SUGAR_BIO_500_ML_c7nsdt.png
+Producto,Zurich,ESTACION HTC-1,8856125315215,HERRAMIENTAS,STOCKA,1650,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510337/Smonkey/products/ESTACION_HTC_-1_u6flsw.png
+Producto,Feeding,FEEDING BOOSTER 125G,,FERTILIZANTES,STOCKA,6700,https://res.cloudinary.com/dh9c97uci/image/upload/v1673510337/Smonkey/products/FEEDING_BOOSTER_125G_nebwph.png
+Producto,Filtro,FILTRO DE AGUA,,HERRAMIENTAS,"-5 ETAPAS DE FILTRADO
+
+1º FELPA DE ALGODON (QUITA LOS PRIMEROS CEDIMENTOS)
+
+2º PIEDRAS DE ZEOLITA (DESINTOXICACION ORGANICA)
+
+3º PIEDRAS DE (ELIMINACION DEL CLORO)
+
+4º CARBON ACTIVO DE COCO (ELIMINA SABOR Y OLOR)
+
+5º FELPA DE ALGODON (VUELVE A FILTRAR ALGUN CEDIMENTO Q HAYA QUEDADO)",650,
+Producto,Filtro,FILTRO DE AGUA IMAN,65446574897465489,HERRAMIENTAS,STOCKA,920,
+Producto,Garden,GARDEN POLEA XL 68K,5756415465465,HERRAMIENTAS,1.5MT,6500,
+Producto,Grotek,GROTEK BLOSSOM BLASTER PRO 500ML,5744165756716,FERTILIZANTES,FLORACION,9000,
+Producto,Grotek,SOLO TEK BLOOM 250ML,,FERTILIZANTES,STOCKA,4000.01,
+Producto,Grotek,SOLO TEK GROW GROTEK 250ML,,FERTILIZANTES,1 EN USO CULTIVO 1 FALTANTE,4000,
+Producto,Grotek,VITAMAX PRO GROTEK 500ML,,FERTILIZANTES,1 EN USO CULTIVON GROW,9000,
+Producto,Grotek,GROTEK MONSTER BLOOM 500GR,654165146541,FERTILIZANTES,STOCKA,15600,
+Producto,Grotek,GROTEK MONSTER BLOOM 20GR,,FERTILIZANTES,STOCKA,1500,
+Producto,Grotek,MONSTER BLOOM  GROTEK 130GR,,FERTILIZANTES,STOCKA,4900,
+Producto,Boost,INTEGRA MED 4G 55%,,HERRAMIENTAS,"Regulador de humedad relativa para tus flores o hierba, este producto brinda un excelente curado y mantenimiento de nuestra hierba, evitando que se seque demasiado o viceversa.
+Este sobre de 4gr alcanza para un frasco o contenedor con hasta 14gr de flores, es muy efectivo y ayuda grandemente al mantenimiento del sabor y las cualidades basicas de nuestro producto.
+El integra boost viene con un practico indicador para cambiar el sobre cuando su funcionamiento termina.",600,
+Producto,Boost,INTEGRA MED 67G 55%,,HERRAMIENTAS,STOCKA,2300,
+Producto,Lixiviado,LIXIVIADO DORADO (200 ML),54154684654165,FERTILIZANTES,STOCKA,1200.01,
+Producto,Lupa,LUPA 22MM 45X LED GALILEO 4522,7595132454656,HERRAMIENTAS,STOCKA,3500,
+Producto,Mamboreta,MAMBORETA FOLI 30CC,654765176187461545,PESTICIDA,STOCKA,2000,
+Producto,Canuto,CARTAS CANUTO,,PARAFERNALIA,STOCKA,1000,
+Producto,Canuto,FILTRO CANUTO,7789756421314654,FERTILIZANTES,STOCKA,300,
+Producto,Zeus,SEDAS ZEUS CELULOSA KING SIZE,,FERTILIZANTES,STOCKA,500,
+Producto,Zeus,CELULOSA ZEUS KING SIZE,,PARAFERNALIA,STOCKA,500,
+Producto,Raw,RAW SEDAS KS,,PARAFERNALIA,STOCKA,350,
+Producto,Raw,RAW TIPS FILTROS,,PARAFERNALIA,STOCKA,350,
+Producto,Top Crop,TOP CROP AUTO 250ML,SKU: 53114651456146,FERTILIZANTES,STOCKA,2500.01,
+Producto,Top Crop,TOP CROP BARRIER BIOPROTECTOR 100ML,SKU: 456651465464,PESTICIDA,STOCKA,749.99,
+Producto,Top Crop,TOP CROP BIG ONE BIOESTIMULANTE 250ML,,BIOESTIMULANTE,STOCKA,4000.01,
+Producto,Top Crop,TOP CROP BUD 100ML,,BIOESTIMULANTE,STOCKA,3300,
+Producto,Top Crop,TOP CROP CALMAG 250ML,,FERTILIZANTES,STOCKA,1420,
+Producto,Revienta,REVIENTA COGOLLOS 9.5 500ML,,FERTILIZANTES,STOCKA,11250,
+Producto,Revienta,REVIENTA ESQUEJES 30ML,,FERTILIZANTES,STOCKA,1800,
+Producto,Revienta,REVIENTA PH - 200ML,SKU: DOF-7798376340549,FERTILIZANTES,STOCKA,1420,
+Producto,Revienta,REVIENTA ESQUEJES 50ML,SKU: DOF-567496465465465,FERTILIZANTES,STOCKA,2699.99,
+Producto,Mantra,MANTRA AGUA DE PERRO 250ML,,FERTILIZANTES,STOCKA,1750,
+Producto,Mantra,MANTRA ALGAFISHUM NODOSUM ORGANICO 250ML,,FERTILIZANTES,STOCKA,2100,
+Producto,Mantra,MANTRA DYNAMITE ORG 250ML,,FERTILIZANTES,STOCKA,1750,
+Producto,Mantra,MANTRA EL TOQUE FINAL 250ML,,FERTILIZANTES,STOCKA,1750,
+Producto,Mantra,MANTRA FLOR DE AUTO 250ML,,FERTILIZANTES,STOCKA,1750,
+Producto,Mantra,MANTRA LECHE DE HUESOS 250ML,,FERTILIZANTES,STOCKA,1750,
+Producto,Mantra,MANTRA NITRO MONSTRUOSO 250ML,,FERTILIZANTES,STOCKA,1750,
+Producto,Mantra,MANTRA NITRO MONSTRUOSO ORG 250ML,,FERTILIZANTES,STOCKA,1750,
+Producto,Mantra,MANTRA PH- 250 ML,,FERTILIZANTES,STOCKA,1300,
+Producto,Mantra,MANTRA SUGAR CANDY 250 ML,,FERTILIZANTES,STOCKA,1750,
+Producto,Namaste,NAMASTE AMAZONIA 150GR,,FERTILIZANTES,STOCKA,1800,
+Producto,Namaste,NAMASTE AMAZONIA 300GR,,FERTILIZANTES,STOCKA,3300,
+Producto,Namaste,NAMASTE BIOPROTECT 100ML,,FERTILIZANTES,STOCKA,1200.01,
+Producto,Namaste,NAMASTE DETOX 500ML,,FERTILIZANTES,STOCKA,1200.01,
+Producto,Namaste,NAMASTE ORO NEGRO 100ML,,FERTILIZANTES,STOCKA,1000,
+Producto,Namaste,NAMASTE ORO NEGRO 500ML,,FERTILIZANTES,STOCKA,2200,
+Producto,Namaste,NAMASTE PH - 100ML,,FERTILIZANTES,STOCKA,650,
+Producto,Namaste,NAMASTE SHANTI 100ML,,FERTILIZANTES,STOCKA,1650,
+Producto,Namaste,NAMASTE SHANTI 500ML,,BIOESTIMULANTE,STOCKA,3500,
+Producto,Namaste,NAMASTE TRICO + 250GR,,FERTILIZANTES,STOCKA,1399.99,
+Producto,Feeding,FEEDING GROW 125GR,DOF-8717729828908,FERTILIZANTES,STOCKA,4300,
+Producto,Grotek,GROTEK MONSTER GROW PRO 130GR,5761454765876,FERTILIZANTES,STOCKA,4700,
+Producto,Lion Circus,LYON HEMP WRAP TERPENES GELATO,,PARAFERNALIA,STOCKA,800,
+Producto,Feeding,GREEN HOUSE FEEDING HYBRIDS ALL IN ONE 500GR,,FERTILIZANTES,STOCKA,12000,
+Producto,Raw,BANDEJAS RAW 28CMX17CM,,PARAFERNALIA,STOCKA,5000,
+Producto,Grotek,GROTEK SOLO TECK BLOOM 500ML,,FERTILIZANTES,STOCKA,8300,
+Producto,Grotek,GROTEK BUD FUEL PRO 500ML,,FERTILIZANTES,STOCKA,10000,
+Producto,Grotek,GROTEK HEAVY BUD PRO 500ML,,FERTILIZANTES,STOCKA,10000,
+Producto,Smonkey,Tutores,,HERRAMIENTAS,STOCKA,100,
+Producto,TerraFertil,TERRA FERTIL TIERRA LOMBRI 5L,,HERRAMIENTAS,STOCKA,900,
+Producto,Smonkey,BUZOS,,PARAFERNALIA,STOCKA,20000,
