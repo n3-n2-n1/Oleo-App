@@ -2,6 +2,8 @@ import style from "./index.module.css";
 import { Link } from "react-router-dom";
 import logo from "../../Assents/Smonkey.svg";
 
+
+
 const Footer = () => {
   return (
     <div className={style.container}>

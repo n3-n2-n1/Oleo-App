@@ -16,6 +16,8 @@ const NavBar = () => {
   };
   const Category = useSelector((state) => state.products.Categorias);
 
+
+  
   return (
     <div className={style.header}>
       <div className={style.logo}>Company Title</div>

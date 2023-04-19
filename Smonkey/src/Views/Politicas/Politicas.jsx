@@ -13,6 +13,7 @@ export function TerminosYCondiciones() {
         SOMETHING.com.ar (en adelante, el “Sitio Web”) que pone a disposición de los usuarios de Internet (el
         “Usuario”).
       </p>
+      
       <p>
         A través del Sitio Web, SOMETHING facilita a los Usuarios el acceso
         y la utilización de diversos servicios y contenidos, que son puestos a

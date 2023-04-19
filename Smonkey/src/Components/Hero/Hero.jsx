@@ -11,6 +11,8 @@ import Maquina from "../../Assents/products/MAQUINa.png"
 
 
 
+
+
 export function Hero() {
   return (
     <div className={style.container}>

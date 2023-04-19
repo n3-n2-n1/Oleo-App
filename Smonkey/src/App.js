@@ -8,7 +8,7 @@ import Whatsapp from "./Components/Whatsapp/whatsapp";
 import SobreNosotros from "./Views/SobreNosotros/SobreNosotros.jsx";
 import Categorias from "./Views/Categorias/Categoria";
 import Detalle from "./Views/Detalle/Detalle";
-import Background from "./Components/Background/Background";
+// import Background from "./Components/Background/Background";
 import { useDispatch } from "react-redux";
 import { useEffect, useState } from "react";
 import {
@@ -46,6 +46,8 @@ function App() {
         <Route path="/sobre-nosotros" element={<SobreNosotros />} />
         <Route path="/productos/:categoria" element={<Categorias />} />
         <Route path="/detalle/:id" element={<Detalle />} />
+
+
 
         {/* PROTECTED ROUTES FOR ADMIN DASHBOARD */}
         <Route

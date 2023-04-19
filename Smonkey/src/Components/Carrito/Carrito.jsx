@@ -7,6 +7,9 @@ const Carrito = () => {
     setCartItems([...cartItems, item]);
   };
 
+
+
+  
   return (
     <div>
       <h1>Tu carrito</h1>
