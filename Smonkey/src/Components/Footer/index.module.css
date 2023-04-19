@@ -3,6 +3,8 @@
     box-sizing: border-box;
   }
 
+
+  
   
 .container {
     font-family: 'Open Sans', system-ui, sans-serif;
@@ -14,6 +16,7 @@
     background-color: #f4f4f4;
     align-items: start;
     margin-bottom: -230px
+    
   }
   
   .footer {
@@ -21,7 +24,7 @@
     flex-flow: row wrap;
     padding: 30px 30px 20px 30px;
     color: #2f2f2f;
-    background-color: #fff;
+    background-color:black;
     border-top: 1px solid #e5e5e5;
   }
   
@@ -32,6 +35,7 @@
   .footerAddr {
     margin-right: 1.25em;
     margin-bottom: 2em;
+    color: white;
   }
   
   .footerLogo{
@@ -50,11 +54,12 @@
   .navTitle {
     font-weight: 400;
     font-size: 15px;
+    color: white;
   }
   
   .footer address {
     font-style: normal;
-    color: #999;
+    color:white;
   }
   
   .footerBtn {
@@ -63,26 +68,30 @@
     justify-content: center;
     height: 36px;
     max-width: max-content;
-    background-color: rgb(33, 33, 33, 0.07);
+    background-color: #f2f2f2;
     border-radius: 100px;
-    color: #2f2f2f;
+    color:black;
     line-height: 0;
     margin: 0.6em 0;
     font-size: 1rem;
     padding: 0 1.3em;
+    text-shadow: 0px 0px 5px black;
   }
   
   .footer ul {
     list-style: none;
     padding-left: 0;
+    
   }
   
   .footer li {
     line-height: 2em;
+    
   }
   
   .footer a {
     text-decoration: none;
+    color: white;
   }
   
   .footerNav {
@@ -113,11 +122,38 @@
   .legalLinks {
     display: flex;
     align-items: center;
+    cursor: pointer;
+  }
+  .legalLinks span{
+    color: white
   }
   
   .heart {
-    color: #2f2f2f;
+    color: white;
   }
+  .footerEnd {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+  }
+  .footerDivider {
+    border-top: 1px solid white;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  .footerEnd ul {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.footerEnd p {
+    flex-basis: 30%; 
+    color: white;
+    text-align: center; 
+}
+  
   
   @media screen and (min-width: 24.375em) {
     .legal .legalLinks {

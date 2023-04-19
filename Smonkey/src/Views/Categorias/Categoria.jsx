@@ -21,7 +21,7 @@ export default function Categorias() {
   const indexOfFirstProd = indexOfLastProd - prodPerPage;
   
  
-  const currentDogs = productos?.slice(indexOfFirstProd, indexOfLastProd);
+  const currentProducts = productos?.slice(indexOfFirstProd, indexOfLastProd);
   useEffect(() => {
     getProductsByCategoryAndBrand(dispatch, categoria.toUpperCase(), brand);
   }, [categoria, brand]);
@@ -40,15 +40,15 @@ export default function Categorias() {
         </div>
       </div>
     
-      {currentDogs?.map((e) => (
+      {currentProducts?.map((e) => (
         <div className={style.card} key={e.id}>
           <Card producto={e} key={e.id} />
         </div>
       ))}
        <div>
           <Pagination
-            dogsPerPage={prodPerPage}
-            allDogs={productos?.length}
+            productsPerPage={prodPerPage}
+            allPorducts={productos?.length}
             currentPage={currentPage}
             paginado={setCurrentPage}
           />

@@ -3,13 +3,12 @@ import { Routes, Route, useLocation } from "react-router-dom";
 import Footer from "./Components/Footer/footer.jsx";
 import Home from "./Views/Home/Home.jsx";
 import NavBar from "./Components/NavBar/NavBar";
-import Ejemplo from "./Views/Ejemplo/Ejemplo";
 import Landing from "./Views/Landing/Landing";
 import Whatsapp from "./Components/Whatsapp/whatsapp";
 import SobreNosotros from "./Views/SobreNosotros/SobreNosotros.jsx";
 import Categorias from "./Views/Categorias/Categoria";
 import Detalle from "./Views/Detalle/Detalle";
-import Background from "./Components/Background/Background";
+// import Background from "./Components/Background/Background";
 import { useDispatch } from "react-redux";
 import { useEffect, useState } from "react";
 import {
@@ -19,6 +18,9 @@ import {
 } from "./features/apiPeticion";
 import DashboardRoute from "./Views/Admin/DashboardRoute";
 import Index from "./Views/Admin";
+import { Faq } from "./Components/FAQ/Faq";
+import { TerminosYCondiciones } from "./Views/Politicas/Politicas"
+import Carrito from "./Components/Carrito/Carrito";
 
 function App() {
 
@@ -38,10 +40,14 @@ function App() {
       <Routes>
         <Route path="/" element={<Landing />} />
         <Route path="/home" element={<Home />} />
-        <Route path="/ejemplo" element={<Ejemplo />} />
+        <Route path="/faq" element={<Faq />} />
+        <Route path="/carrito" element={<Carrito />} />
+        <Route path="/terminosycondiciones" element={<TerminosYCondiciones />} />
         <Route path="/sobre-nosotros" element={<SobreNosotros />} />
         <Route path="/productos/:categoria" element={<Categorias />} />
         <Route path="/detalle/:id" element={<Detalle />} />
+
+
 
         {/* PROTECTED ROUTES FOR ADMIN DASHBOARD */}
         <Route

@@ -1,14 +1,15 @@
 import React from 'react'
 import style from "./index.module.css"
 import img from "../../Assents/Frame1.png"
+import { Link } from "react-router-dom";
 
 const products = [
-  { name: 'I feel like Pablo', company: 'Yeezy', sizes: ['S', 'M', 'L', 'XL'], price: 120, imgUrl: `${img}` },
-  { name: "The Iconic", company: "Nike", sizes: ["US 7", "US 8", "US 9", "US 10", "US 11"], price: 99.99, imgUrl: `${img}` },
-  { name: "The Essential", company: "Adidas", sizes: ["XS", "S", "M", "L", "XL"], price: 49.99, imgUrl: `${img}` },
-  { name: "The Classic", company: "Converse", sizes: ["US 5", "US 6", "US 7", "US 8", "US 9"], price: 59.99, imgUrl: `${img}` },
-  { name: "The Ultimate", company: "Under Armour", sizes: ["XS", "S", "M", "L", "XL"], price: 79.99, imgUrl: `${img}` },
-  { name: "The Comfortable", company: "New Balance", sizes: ["US 7", "US 8", "US 9", "US 10", "US 11"], price: 69.99, imgUrl: `${img}` },
+  { titulo: 'Sustrato Growers Super Soil (25lt.)',  precio: 120, imgUrl: `${img}` },
+  { titulo: 'Top Crop - Veg 250mL.',  precio: 320, imgUrl: `${img}` },
+  { titulo: 'Clipper - Lighter',  precio: 420, imgUrl: `${img}` },
+  { titulo: 'Skogbio - Alga Delta Bioestimulante 100mL.',  precio: 1220, imgUrl: `${img}` },
+  { titulo: 'Raw - Challenge Cone - 33oz.',  precio: 1520, imgUrl: `${img}` },
+  { titulo: 'Forestal - Bandeja 4090 (40 celdas, 90cc)',  precio: 1120, imgUrl: `${img}` },
 ];
 
 
@@ -28,9 +29,8 @@ export const ProductoCard = () => {
                   <div className={style.imgInfo}>
                     <div className={style.infoInner}>
                       <span className={style.pName}>{product.name}</span>
-                      <span className={style.pCompany}>{product.company}</span>
+                      
                     </div>
-                    <div className={style.aSize}>Available sizes: <span className={style.size}>{product.sizes.join(', ')}</span></div>
                   </div>
                 </div>
   
@@ -40,9 +40,11 @@ export const ProductoCard = () => {
                   </div>
   
                   <a className={style.cart} href="#">
-                    <span className={style.price}>{product.price}</span>
+                    <span className={style.price}>${product.precio}</span>
                     <span className={style.add}>
-                      <span className={style.txt}>Add to cart</span>
+                    <Link to={`/detalle/:id`}>
+                      <span className={style.txt}>VER MÁS</span>
+                      </Link>
                     </span>
                   </a>
                 </div>

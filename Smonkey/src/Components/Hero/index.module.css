@@ -27,6 +27,11 @@
     transform: scale(2);
     transition: all 1s ease;
 }
+.mScrollTitle img {
+    max-width: 100px;
+    height: auto;
+  }
+  
 .mScrollTitle > div {
     display: flex;
     animation: scrollText 33s infinite linear;
@@ -65,6 +70,8 @@
     flex-direction: row;
     align-items: center;
 }
+
+
 .productWrapper .product .imgSection {
     max-width: 40%;
     position: relative;
@@ -77,8 +84,9 @@
     overflow: hidden;
 }
 .productWrapper .product .imgSection .productImage img {
-    margin: 0 -170px;
-}
+     margin: 0 -170px; 
+
+  }
 .productWrapper .product .imgSection:before {
     content: "";
     position: absolute;
