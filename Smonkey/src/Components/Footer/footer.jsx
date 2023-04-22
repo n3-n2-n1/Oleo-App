@@ -8,14 +8,14 @@ const Footer = () => {
 
       <footer className={style.footer}>
         <div className={style.footerAddr}>
-          <h1 className={style.footerLogo}>Something</h1>
+          <h1 className={style.footerLogo}>Oleo</h1>
 
           <h2>Contact</h2>
 
           <address>
-            5534 Somewhere In. The World 22193-10212
+            Palermo Hollywood, Buenos Aires, Argentina
 
-            <a className={style.footerBtn} href="mailto:example@gmail.com">Email Us</a>
+            <a className={style.footerBtn} href="krystalloquartz@gmail.com">Email Us</a>
           </address>
         </div>
 
@@ -25,46 +25,27 @@ const Footer = () => {
 
             <ul className={style.navUl}>
               <li>
-                <a href="#">Online</a>
+                <a href="#">Categorías</a>
               </li>
 
               <li>
-                <a href="#">Print</a>
+                <a href="#">Parafernalia</a>
               </li>
 
               <li>
-                <a href="#">Alternative Ads</a>
+                <a href="#">Nosotros</a>
               </li>
             </ul>
           </li>
 
           <li className={style.navItemE}>
-            <h2 className={style.navTitle}>Technology</h2>
+            <h2 className={style.navTitle}>Contactanos</h2>
 
             <ul className={style.navUlE}>
               <li>
-                <a href="#">Hardware Design</a>
+                <a href="#">Preguntas Frecuentes</a>
               </li>
 
-              <li>
-                <a href="#">Software Design</a>
-              </li>
-
-              <li>
-                <a href="#">Digital Signage</a>
-              </li>
-
-              <li>
-                <a href="#">Automation</a>
-              </li>
-
-              <li>
-                <a href="#">Artificial Intelligence</a>
-              </li>
-
-              <li>
-                <a href="#">IoT</a>
-              </li>
             </ul>
           </li>
 

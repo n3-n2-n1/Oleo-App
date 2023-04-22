@@ -95,7 +95,7 @@
   -ms-transform: translateY(-50%);
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
-  color: #818181;
+  color: black;
 }
 
 .elWrapper:hover .add {
@@ -165,7 +165,7 @@
   /* ease-out */
   width: 660px;
   height: 100%;
-  background-color: #3f96cd;
+  background-color: black;
   position: absolute;
   left: -659px;
 }
@@ -173,7 +173,7 @@
 .hBg .hBgInner {
   width: 50%;
   height: 100%;
-  background-color: rgb(217, 255, 0);
+  background-color: #be9e44;
 }
 
 .infoInner {
@@ -200,7 +200,7 @@
 .infoInner .pName {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
-  color: #252525;
+  color: black;
 }
 
 .infoInner .pCompany {
@@ -225,7 +225,7 @@
   width: 100%;
   bottom: -20px;
   font-family: 'Open Sans', sans-serif;
-  color: #828282;
+  color: black;
   opacity: 0;
 }
 
@@ -267,7 +267,7 @@
   -o-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   font-size: 16px;
-  color: #252525;
+  color: black;
 }
 
 .cart .add {
