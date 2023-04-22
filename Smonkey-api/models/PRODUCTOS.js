@@ -27,10 +27,10 @@ const PRODUCTOS = sequelize.define(
       //   require: true,
     },
 
-    // imagen: {
-    //   type: DataTypes.TEXT,
+    imagen: {
+      type: DataTypes.TEXT,
     //   //   require: true,
-    // },
+   },
 
     stock: {
       type: DataTypes.INTEGER,
