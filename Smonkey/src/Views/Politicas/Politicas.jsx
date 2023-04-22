@@ -49,4 +49,6 @@ export function TerminosYCondiciones() {
       </p>
      </div>
   )
+
 }
+

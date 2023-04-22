@@ -44,7 +44,7 @@ function App() {
         <Route path="/carrito" element={<Carrito />} />
         <Route path="/terminosycondiciones" element={<TerminosYCondiciones />} />
         <Route path="/sobre-nosotros" element={<SobreNosotros />} />
-        <Route path="/productos/:categoria" element={<Categorias />} />
+        {/* <Route path="/productos/:categoria" element={<Categorias />} /> */}
         <Route path="/detalle/:id" element={<Detalle />} />
 
 

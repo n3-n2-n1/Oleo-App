@@ -7,12 +7,12 @@ import {
 } from "../../Assents/arrow";
 
 export default function Pagination({
-  dogsPerPage,
+  productosPerPage,
   currentPage,
-  allDogs,
+  allProductos,
   paginado,
 }) {
-  const pagesCount = Math.ceil(allDogs / dogsPerPage);
+  const pagesCount = Math.ceil(allProductos / productosPerPage);
 
   // range of numbers
   let firstNumber = 1;

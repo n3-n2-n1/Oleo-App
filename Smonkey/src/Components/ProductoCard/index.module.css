@@ -101,9 +101,16 @@
 .elWrapper:hover .add {
   left: 50%;
 }
+.elWrapper .img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  object-position: center;
+}
+
 
 .elWrapper:hover .img {
-  webkit-filter: blur(7px);
+  /* webkit-filter: blur(7px); */
   -o-filter: blur(7px);
   -ms-filter: blur(7px);
   filter: blur(7px);
@@ -302,3 +309,33 @@
   text-transform: uppercase;
   white-space: nowrap;
 }
+
+.pagination {
+  margin-top: 10px;
+}
+
+.ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+
+.list {
+  margin: 0 5px;
+  display: inline-block;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 15px;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: gray;
+}
+

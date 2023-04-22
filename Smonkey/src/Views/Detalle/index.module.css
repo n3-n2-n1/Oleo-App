@@ -1,21 +1,22 @@
-.container{
-	height: 100%;
+ .container{
+	height: 80%;
 	background-color: white;
-	padding-top: 100px ;
+	padding-top: 50px ;
 	border: 1cm;
 	border-color: white;
 	background-color:#32393d ;
 	
-}
+} 
 
-.titulo{
+.titulo{ 
 	height: 100%;
 	font-family: 'Open Sans';
-	font-weight: 30px;
+	font-weight: 150px;
 	width: 100%;
 	justify-content: center;
 	display: flex;
-}
+	color: white;
+	}
 
 .detalles{
 	display: flex;
@@ -30,17 +31,22 @@
 	justify-content: center;
 	font-family: 'Open Sans';
 	margin-bottom: 10px;
+	color: white;
 }
 
 .prodimg{
-	height: 60%;
-	width: 100%;
-	scale: 20%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .prodimg img{
-	height: 500px;
+	
 	border-radius: 9999px;
+	max-height: 100%;
+	max-width: 100%;
+	
 }
 
 .ventabtn button{
