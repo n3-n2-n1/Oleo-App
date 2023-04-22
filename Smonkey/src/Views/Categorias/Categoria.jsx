@@ -22,10 +22,12 @@
 //   const indexOfFirstProd = indexOfLastProd - prodPerPage;
   
  
+
 //   const currentProductos= productos?.slice(indexOfFirstProd, indexOfLastProd);
 //   useEffect(() => {
 //     productos(dispatch, categoria.toUpperCase(), brand);
 //   }, [categoria, brand]);
+
 
 //   return (
 //     <div className={style.container}>
@@ -41,6 +43,7 @@
 //         </div>
 //       </div>
     
+
 //       {currentProductos?.map((e) => (
 //         <div className={style.card} key={e.id}>
 //           <Card producto={e} key={e.id} />
@@ -58,8 +61,4 @@
 //   );
 // }
 
-// import  Card  from "../../Components/Card/Card";
-// import style from "./index.module.css";
-// import style from "./index.module.css";
-// import Pagination from "./pagination";
-// import { productos } from "../../Assents/BASEFAKE";
+

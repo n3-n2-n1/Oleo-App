@@ -1,3 +1,4 @@
+
 import React, { useState } from "react";
 import style from "./index.module.css";
 import { Link } from "react-router-dom";
@@ -7,6 +8,7 @@ export const ProductoCard = ({ product }) => {
   console.log(product);
   const [currentPage, setCurrentPage] = useState(1);
   const [pageSize, setPageSize] = useState(6);
+
 
   const startIndex = (currentPage - 1) * pageSize;
   const selectedProducts = productos.slice(startIndex, startIndex + pageSize);
@@ -29,21 +31,19 @@ export const ProductoCard = ({ product }) => {
                   <img className={style.img} src={product.imagen} alt="" />
                   <div className={style.imgInfo}>
                     <div className={style.infoInner}>
-                      <span className={style.pName}>{product.titulo}</span>
-                    </div>
-                  </div>
-                </div>
 
-                <div className={style.boxDown}>
-                  <div className={style.hBg}>
-                    <div className={style.hBgInner}></div>
-                  </div>
+                      <span className={style.pName}>{product.titulo}</span>
+
+                      <span className={style.pName}>{product.name}</span>
+                      
+
 
                   <span className={style.cart} href="#">
                     <span className={style.price}>${product.precio}</span>
                     <span className={style.add}>
                       <Link to={`/detalle/${product.id}`}>
                         <span className={style.txt}>VER MÁS</span>
+
                       </Link>
                     </span>
                   </span>

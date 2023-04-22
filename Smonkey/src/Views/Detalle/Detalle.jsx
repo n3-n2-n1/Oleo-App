@@ -1,4 +1,5 @@
 import style from "./index.module.css";
+
 // import { useEffect } from "react";
 // import { useState } from "react";
 // import { useParams } from "react-router-dom";
@@ -7,7 +8,10 @@ import { productos } from "../../Assents/BASEFAKE";
 import { useParams } from 'react-router-dom';
    
 
+
+
     const Detalle = (props) => {
+
 
         // const [producto, setProducto ] = useState();
          //  const {id} = useParams();
